@@ -1,4 +1,4 @@
-<p align="center" style="width=15%;height=15%">
+<p align="center" style="width:500px;height:600px;">
     <img width="33%" src="https://cdn.shawnnn.store/logo_nbg.png"> 
 </p>
 
