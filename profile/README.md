@@ -1,5 +1,5 @@
-<p align="center" style="width:500px;height:600px;">
-    <img width="33%" src="https://cdn.shawnnn.store/logo_nbg.png"> 
+<p align="center" width="50%">
+    <img width="13%" src="https://cdn.shawnnn.store/logo_nbg.png"> 
 </p>
 
 <p align="center" width="100%">
