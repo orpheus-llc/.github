@@ -1,5 +1,5 @@
 <p align="center" width="15%">
-    <img width="33%" src="https://cdn.shawnnn.store/logo.png"> 
+    <img width="33%" src="https://cdn.shawnnn.store/logo_nbg.png"> 
 </p>
 
 <p align="center" width="100%">
