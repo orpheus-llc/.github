@@ -1,5 +1,5 @@
 <p align="center" width="100%">
-    <img width="33%" src="https://gohbot.space/static/img/gohbot.svg"> 
+    <img width="33%" src="https://cdn.shawnnn.store/logo.png"> 
 </p>
 
 <p align="center" width="100%">
