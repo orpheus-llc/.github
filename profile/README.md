@@ -1,4 +1,4 @@
-<p align="center" width="100%">
+<p align="center" width="50%">
     <img width="33%" src="https://cdn.shawnnn.store/logo.png"> 
 </p>
 
