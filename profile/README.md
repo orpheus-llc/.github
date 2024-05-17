@@ -1,6 +1,5 @@
 <p align="center" width="50%">
     <img width="50%" src="https://cdn.shawnnn.store/git_banner.png"> 
-    <img width="50%" src="https://cdn.shawnnn.store/git_banner.png"> 
 </p>
 
 <p align="center" width="100%">
